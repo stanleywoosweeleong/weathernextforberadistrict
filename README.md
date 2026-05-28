@@ -1,7 +1,7 @@
 # 百乐县 农友天气 · Bera District WeatherNext
 
 A single-file Progressive Web App (PWA) delivering farm weather forecasts for
-9 plantation locations across the Bera district, Pahang. Bilingual interface
+10 plantation locations across the Bera district, Pahang. Bilingual interface
 (中文 / English) with optional AI-generated farming briefings.
 
 Part of the WeatherNext family of per-region agricultural weather builds.
@@ -23,7 +23,7 @@ app. It works offline after the first visit (service-worker cached).
 
 ## Seeded locations
 
-On first launch the app seeds these 9 farms (all in Pahang). They are
+On first launch the app seeds these 10 farms (all in Pahang). They are
 auto-favourited and can be renamed, edited, or deleted freely afterwards.
 
 | English | 中文 | Coordinates |
@@ -31,6 +31,7 @@ auto-favourited and can be renamed, edited, or deleted freely afterwards.
 | Mengkarak | 明加叻 | 3.32000, 102.43000 |
 | Kemasul | 金马苏 | 3.29700, 102.39500 |
 | Triang | 直凉 | 3.24800, 102.41700 |
+| Palm Glove | 直凉园 金河山庄 | 3.23054, 102.39513 |
 | Paya Lang | 巴也郎 | 3.18194, 102.43667 |
 | Simpang Bukit Mendi | 明光 | 3.16572, 102.38601 |
 | Bukit Mendi | 武吉文迪 | 3.17474, 102.35056 |
@@ -95,7 +96,7 @@ The service worker caches the app shell. When you push changes, bump the
 their next visit. The current value is:
 
 ```
-wnext-weathernextforberadistrict-202605272359
+wnext-weathernextforberadistrict-202605281600
 ```
 
 ---

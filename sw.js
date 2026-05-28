@@ -3,7 +3,7 @@
 // Version 1.0.155 — two-phase share + single link + html2canvas guard. bump CACHE_VERSION on each release
 // ============================================================
 
-const CACHE_VERSION = 'wnext-weathernextforberadistrict-202605272359';
+const CACHE_VERSION = 'wnext-weathernextforberadistrict-202605281600';
 const SHELL_CACHE = `${CACHE_VERSION}-shell`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 const WEATHER_CACHE = `${CACHE_VERSION}-weather`;
