@@ -2,6 +2,7 @@
   "name": "百乐县",
   "short_name": "百乐县天气",
   "description": "Bera District 百乐县 — farm weather forecast / 个人化农友天气预报",
+  "id": "/weathernextforberadistrict/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
